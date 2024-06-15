@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "920203200323",
+    "firebase_url": "https://myexamapplication-1e922-default-rtdb.firebaseio.com",
+    "project_id": "myexamapplication-1e922",
+    "storage_bucket": "myexamapplication-1e922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920203200323:android:2804bcc833e33cf15851f6",
+        "android_client_info": {
+          "package_name": "com.example.myexamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3J_qj-nz5CiwNBRE4GYwboBiqLCGeYJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920203200323:android:618ddcb823d16d455851f6",
+        "android_client_info": {
+          "package_name": "com.example.myexamapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3J_qj-nz5CiwNBRE4GYwboBiqLCGeYJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
